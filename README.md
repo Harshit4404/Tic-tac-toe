@@ -1,4 +1,4 @@
-## TicTacToe Game
+# TicTacToe Game
 
 # snapshot 1
 
